@@ -1,10 +1,5 @@
 row = ["0", "1", "2"]
 
-# Position 1: Left
-row[0]
+row = ["3", "4", "5"]
 
-# Position 2: Middle
-row[1]
-
-# Position 3: Right
-row[2]
+row = ["6", "7", "8"]
